@@ -33,6 +33,10 @@
 </p>
 
 
+<p align="right"> 
+    <a href="https://www.pinterest.com/pin/624241198351105697/"><img src="https://github.com/thanhgaming5550/thanhgaming5550/blob/main/bin/rounded-in-photoretrica.png?raw=true" align="right" height="260"></a>
+</p>
+
 <h3 align="left">Languages:</h3>
 <p align="left"> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -49,6 +53,8 @@
 
 <h3 align="left">Platform:</h3>
 <p align="left"> <a href="https://www.microsoft.com/windows/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/480px-Windows_logo_-_2012.svg.png" alt="cplusplus" width="40" height="40"/> </a> </p>
+
+
 
 <p align="center">
     <img
