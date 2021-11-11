@@ -3,7 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thanhgaming5550&label=Profile%20views&color=0e75b6&style=flat" alt="thanhgaming5550" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thanhgaming5550" alt="thanhgaming5550" /></a> </p>
+<p align="center"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thanhgaming5550&theme=darkhub&row=1&column=7" alt="thanhgaming5550"/> </a> 
+</p>
 
 
 - 🔭 I’m currently working on **[bot-thieu-nang](https://botthieunang.blogspot.com/) (Private)**
