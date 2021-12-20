@@ -69,4 +69,8 @@
         width="49%"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=thanhgaming5550&layout=compact&theme=radical&count_private=true"
     />
+	<img
+        width="49%"
+        src="https://github.com/thanhgaming5550/thanhgaming5550/blob/main/bin/Github%20Wrapped%202020.png?raw=true"
+    />
 </p>
