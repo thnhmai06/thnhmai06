@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm thanhgaming5550</h1>
-<h3 align="center">I'm a student in Vietnam.</h3>
+<h3 align="center">I'm a student and living in Vietnam.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thanhgaming5550&label=Profile%20views&color=0e75b6&style=flat" alt="thanhgaming5550" /> </p>
 
