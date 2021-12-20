@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **[bot-thieu-nang](https://botthieunang.blogspot.com/) (Private)**
 
-- 🌱 I’m currently learning **JavaScript** and **C++** (Only C++ on school)
+- 🌱 I’m currently learning **JavaScript** and **C++** (Only C++ at school)
 
 - 📁 My Repositories **Most of the constructions I create are Private.**
 
@@ -37,7 +37,7 @@
 <!---
     <a href="https://www.pinterest.com/pin/624241198351105697/"><img src="https://github.com/thanhgaming5550/thanhgaming5550/blob/main/bin/rounded-in-photoretrica.png?raw=true" align="right" height="260"></a>]
 -->
-	<a href="https://github.com/thanhgaming5550"><img src="https://github.com/thanhgaming5550/thanhgaming5550/blob/main/bin/Github%20Wrapped%202020.png?raw=true" align="right" height="260"></a>
+	<a href="https://i.imgur.com/YqErliX.png"><img src="https://i.imgur.com/YqErliX.png" align="right" height="260"></a>
 </p>
 
 <h3 align="left">Languages:</h3>
