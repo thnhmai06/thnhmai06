@@ -34,7 +34,7 @@
 
 
 <p align="right"> 
-    /*/<a href="https://www.pinterest.com/pin/624241198351105697/"><img src="https://github.com/thanhgaming5550/thanhgaming5550/blob/main/bin/rounded-in-photoretrica.png?raw=true" align="right" height="260"></a>/*/
+    [<a href="https://www.pinterest.com/pin/624241198351105697/"><img src="https://github.com/thanhgaming5550/thanhgaming5550/blob/main/bin/rounded-in-photoretrica.png?raw=true" align="right" height="260"></a>]
 	<a href="https://github.com/thanhgaming5550"><img src="https://github.com/thanhgaming5550/thanhgaming5550/blob/main/bin/Github%20Wrapped%202020.png?raw=true" align="right" height="260"></a>
 </p>
 
