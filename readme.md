@@ -14,7 +14,7 @@
 
 - 📁 My Repositories **Most of the constructions I create are Private.**
 
-- 📫 How to reach me? **You can DM me on Discord or send private message on Messenger.**
+- 📫 How to reach me? **You can DM me on Discord or send message on Telegram.**
 
 - ⚡ Fun fact **I taught myself JavaScript by practicing writing Discord.js and watching video tutorials without any courses!**
 
@@ -30,6 +30,7 @@
 <a href="https://www.twitch.tv/thanhgaming5550/" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/twitch-logo-vector-png-2.png" alt="thanhgaming5550" height="40" width="40" /></a>
 <a href="https://www.pinterest.com/thanhgaming5550/" target="blank"><img align="center" src="https://s.pinimg.com/webapp/favicon-54a5b2af.png" alt="thanhgaming5550" height="40" width="40" /></a>
 <a href="https://discord.com/users/384282911479693313" target="blank"><img align="center" src="https://i.imgur.com/CUl1zhb.png" alt="thanhgaming5550" height="40" width="40" /></a>
+<a href="https://t.me/thanhgaming5550" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/800px-Telegram_2019_Logo.svg.png" alt="thanhgaming5550" height="40" width="40" /></a>
 </p>
 
 
