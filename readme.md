@@ -12,9 +12,9 @@
 
 - 🌱 I’m currently learning **JavaScript** and **C++** (Only C++ at school)
 
-- 📁 My Repositories **Most of the constructions I create are Private.**
+- 📁 My Repositories **Most of the repositories which I created are Private.**
 
-- 📫 How to reach me? **You can DM me on Discord or send message on Telegram.**
+- 📫 How to reach me? **You can DM me on [Discord](https://discord.com/channels/@me/852937743381430342) or send message on [Telegram](https://t.me/thanhgaming5550).**
 
 - ⚡ Fun fact **I taught myself JavaScript by practicing writing Discord.js and watching video tutorials without any courses!**
 
