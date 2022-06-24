@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **[bot-thieu-nang](https://botthieunang.blogspot.com/) (Private)**
 
-- 🌱 I’m currently learning **JavaScript** and **C++** (Only C++ at school)
+- 🌱 I’m currently learning **JavaScript**, **Python** and **C++** (C++ and Python at school)
 
 - 📁 My Repositories **Most of the repositories which I created are Private.**
 
