@@ -35,7 +35,7 @@
 
 <p align="right"> 
 <!---
-    <a href="https://www.pinterest.com/pin/624241198351105697/"><img src="https://github.com/thanhgaming5550/thanhgaming5550/blob/main/bin/rounded-in-photoretrica.png?raw=true" align="right" height="260"></a>]
+    <a href="Link_Click"><img src="Link_anh" align="right" height="260"></a>]
 -->
 </p>
 
