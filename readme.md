@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on... hmmm, I'm studying at school, and don't have a job
 
-- 🌱 I’m currently learning **HTML, CSS and C++** (C++ at school, CSS is so difficult)
+- 🌱 I’m currently learning **HTML, CSS and C++** (C++ at school)
 
 - 📁 My Repositories? **Most of the repositories I created are Private, and someday I will public this...**
 
