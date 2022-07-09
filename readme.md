@@ -8,15 +8,15 @@
 </p>
 
 
-- 🔭 I’m currently working on **[bot-thieu-nang](https://botthieunang.blogspot.com/) (Private)**
+- 🔭 I’m currently working on... hmmm, I'm studying at school, and don't have a job
 
-- 🌱 I’m currently learning **JavaScript**, **Python** and **C++** (C++ and Python at school)
+- 🌱 I’m currently learning **HTML, CSS and C++** (C++ at school, CSS is so difficult)
 
-- 📁 My Repositories **Most of the repositories which I created are Private.**
+- 📁 My Repositories? **Most of the repositories I created are Private, and someday I will public this...**
 
-- 📫 How to reach me? **You can DM me on Discord or send message on [Telegram](https://t.me/thanhgaming5550).**
+- 📫 How to reach me? **DM me on Discord or send message on Messenger.**
 
-- ⚡ Fun fact **I taught myself JavaScript by practicing writing Discord.js and watching video tutorials without any courses!**
+- ⚡ Fun fact **I taught myself JavaScript by practicing writing Discord.js and watching video tutorials**
 
 
 <h3 align="left">Connect with me:</h3>
