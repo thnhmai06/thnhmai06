@@ -14,7 +14,7 @@
 
 - 📁 My Repositories? **Most of the repositories I created are Private, and someday I will public this...**
 
-- 📫 How to reach me? **DM me on Discord or send message on Messenger.**
+- 📫 How to reach me? **DM me on Discord or send message on [Messenger](https://www.facebook.com/lachinh.vui.52459).**
 
 - ⚡ Fun fact **I taught myself JavaScript by practicing writing Discord.js and watching video tutorials**
 
@@ -23,14 +23,13 @@
 <p align="left">
 <a href="https://twitter.com/thanhgaming5550" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thanhgaming5550" height="40" width="40" /></a>
 <a href="https://stackoverflow.com/users/16410937" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16410937" height="40" width="40" /></a>
-<a href="https://www.facebook.com/lachinh.vui.52459" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mai thành" height="40" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCG931fUUMQJ4vpJGUQfwH7w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thanhgaming5550" height="40" width="40" /></a>
 <a href="https://open.spotify.com/user/31lblbv6kp7lrkqsox4gtmigrupq" target="blank"><img align="center" src="https://open.scdn.co/cdn/images/favicon.5cb2bd30.ico" alt="thanhgaming5550" height="40" width="40" /></a>
 <a href="https://steamcommunity.com/id/thanhgaming5550/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/512px-Steam_icon_logo.svg.png" alt="thanhgaming5550" height="40" width="40" /></a>
 <a href="https://www.twitch.tv/thanhgaming5550/" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/twitch-logo-vector-png-2.png" alt="thanhgaming5550" height="40" width="40" /></a>
 <a href="https://www.pinterest.com/thanhgaming5550/" target="blank"><img align="center" src="https://s.pinimg.com/webapp/favicon-54a5b2af.png" alt="thanhgaming5550" height="40" width="40" /></a>
 <a href="https://discord.com/users/384282911479693313" target="blank"><img align="center" src="https://i.imgur.com/CUl1zhb.png" alt="thanhgaming5550" height="40" width="40" /></a>
-<a href="https://t.me/thanhgaming5550" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/800px-Telegram_2019_Logo.svg.png" alt="thanhgaming5550" height="40" width="40" /></a>
+<a href="https://www.facebook.com/lachinh.vui.52459" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mai Thành" height="40" width="40" /></a>
 </p>
 
 
@@ -38,7 +37,6 @@
 <!---
     <a href="https://www.pinterest.com/pin/624241198351105697/"><img src="https://github.com/thanhgaming5550/thanhgaming5550/blob/main/bin/rounded-in-photoretrica.png?raw=true" align="right" height="260"></a>]
 -->
-	<a href="https://i.imgur.com/YqErliX.png"><img src="https://i.imgur.com/YqErliX.png" align="right" height="260"></a>
 </p>
 
 <h3 align="left">Languages:</h3>
