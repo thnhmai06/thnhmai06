@@ -12,11 +12,11 @@
 
 - 🌱 I’m currently learning **C++** at school
 
-- 📁 My Repositories? **Most of the repositories I created are Private, and someday I will public this...**
+- 📁 My Repositories? **You can check out at [here](https://github.com/thanhgaming5550?tab=repositories&q=&type=public&language=&sort=stargazers)**
 
 - 📫 How to reach me? **DM me through [Discord](https://discord.com/users/384282911479693313) or send message on [Messenger](https://www.facebook.com/lachinh.vui.52459).**
 
-- ⚡ Fun fact **I learned JavaScript by myself (practicing writing Discord.js and watching video tutorials about DJS)**
+- ⚡ Fun fact **I learned JavaScript by practicing writing [DiscordJS](https://discord.js.org/) and watching video tutorials about DJS**
 
 <p align="right"> 
 <!---
