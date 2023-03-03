@@ -8,7 +8,7 @@
 </p>
 
 
-- 🔭 I’m currently working on... hmmm, I'm studying at school, and don't have a job
+- 🔭 I’m currently working on... hmmm, I study at school, and don't have a job :(
 
 - 🌱 I’m currently learning **C++** at school
 
