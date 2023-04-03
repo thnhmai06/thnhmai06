@@ -16,7 +16,7 @@
 
 - 📫 How to reach me? **DM me through [Discord](https://discord.com/users/384282911479693313) or send message on [Messenger](https://www.facebook.com/lachinh.vui.52459).**
 
-- ⚡ Fun fact **I learned JavaScript by practicing writing [DiscordJS](https://discord.js.org/) and watching video tutorials about DJS**
+- ⚡ Fun fact **I taught myself Javascript by practicing writing [DiscordJS](https://discord.js.org/), reading documents and watching video tutorials about it**
 
 <p align="right"> 
 <!---
