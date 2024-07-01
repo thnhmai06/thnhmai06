@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **C++** at school
 
-- 📁 My Repositories? **You can check out at [here](https://github.com/thanhgaming5550?tab=repositories&q=&type=public&language=&sort=stargazers)**
+- 📁 My Repositories? **You can check out [here](https://github.com/thanhgaming5550?tab=repositories&q=&type=public&language=&sort=stargazers)**
 
 - 📫 How to reach me? **DM me through [Messenger](https://www.facebook.com/lachinh.vui.52459).**
 
