@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm thanhgaming5550</h1>
+<h1 align="center">Hi 👋, I'm Mai Thành!</h1>
 <h3 align="center">I'm a student and living in Vietnam.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thanhgaming5550&label=Profile%20views&color=0e75b6&style=flat" alt="thanhgaming5550" /> </p>
@@ -14,7 +14,7 @@
 
 - 📁 My Repositories? **You can check out at [here](https://github.com/thanhgaming5550?tab=repositories&q=&type=public&language=&sort=stargazers)**
 
-- 📫 How to reach me? **DM me through [Discord](https://discord.com/users/384282911479693313) or send message on [Messenger](https://www.facebook.com/lachinh.vui.52459).**
+- 📫 How to reach me? **DM me through [Messenger](https://www.facebook.com/lachinh.vui.52459).**
 
 - ⚡ Fun fact **I taught myself Javascript by practicing writing [DiscordJS](https://discord.js.org/), reading documents and watching video tutorials about it**
 
