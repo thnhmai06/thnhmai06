@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mai Thành!</h1>
 <h3 align="center">I'm a student and living in Vietnam.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=thnhmai38&label=Profile%20views&color=0e75b6&style=flat" alt="thnhmai38" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=thnhmai06&label=Profile%20views&color=0e75b6&style=flat" alt="thnhmai06" /> </p>
 
 <p align="center"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thnhmai38&theme=darkhub&row=1&column=6" alt="thnhmai38"/> </a> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thnhmai06&theme=darkhub&row=1&column=6" alt="thnhmai06"/> </a> 
 </p>
 
 
@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **C++** at school
 
-- 📁 My Repositories? **You can check out [here](https://github.com/thnhmai38?tab=repositories&q=&type=public&language=&sort=stargazers)**
+- 📁 My Repositories? **You can check out [here](https://github.com/thnhmai06?tab=repositories&q=&type=public&language=&sort=stargazers)**
 
 - 📫 How to reach me? **DM me through [Messenger](https://www.facebook.com/lachinh.vui.52459).**
 
@@ -45,14 +45,14 @@
 <p align="center">
     <img
         width="49%"
-        src="https://github-readme-stats.vercel.app/api?username=thnhmai38&theme=radical&include_all_commits=true&count_private=true"
+        src="https://github-readme-stats.vercel.app/api?username=thnhmai06&theme=radical&include_all_commits=true&count_private=true"
     />
     <img
         width="49%"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=thnhmai38&theme=radical"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=thnhmai06&theme=radical"
     />
     <img
         width="49%"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=thnhmai38&layout=compact&theme=radical&count_private=true"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=thnhmai06&layout=compact&theme=radical&count_private=true"
     />
 </p>
