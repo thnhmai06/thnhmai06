@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on... nothing, but you can hire me
 
-- 🌱 I’m currently learning **Ccomputer Science** in [UET-VNU](https://uet.vnu.edu.vn/)
+- 🌱 I’m currently learning **Computer Science** in [UET-VNU](https://uet.vnu.edu.vn/)
 
 - 📁 My Repositories? **You can check out [here](https://github.com/thnhmai06?tab=repositories&q=&type=public&language=&sort=stargazers)**
 
