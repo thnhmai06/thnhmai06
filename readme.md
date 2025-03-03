@@ -16,7 +16,7 @@
 
 - 📫 How to reach me? **Contact me via [Facebook](https://www.facebook.com/thnhmai1342) or [Discord](https://discord.com/users/384282911479693313)**
 
-- ⚡ Fun fact **I learn Javascript by practicing writing [DiscordJS](https://discord.js.org/) (I love JavaScript btw)**
+- ⚡ Fun fact **I learn Javascript by practicing writing [DiscordJS](https://discord.js.org/)**
 
 <p align="right"> 
 <!---
