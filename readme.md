@@ -48,15 +48,11 @@
 
 <p align="center">
     <img
-        width="49%"
+        width="40%"
         src="https://github-readme-stats.vercel.app/api?username=thnhmai06&theme=radical&include_all_commits=true&count_private=true"
     />
     <img
-        width="49%"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=thnhmai06&theme=radical"
-    />
-    <img
-        width="49%"
+        width="40%"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=thnhmai06&layout=compact&theme=radical&count_private=true"
     />
 </p>
