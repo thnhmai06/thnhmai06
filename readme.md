@@ -8,7 +8,7 @@
 </p>
 
 
-- 🔭 I’m currently working on... nothing, but you can hire me
+- 🔭 Currently working on [The Floor is Rhythm](https://github.com/thnhmai06/the-floor-is-rhythm) project
 
 - 🌱 I’m currently learning **Computer Science** in [UET-VNU](https://uet.vnu.edu.vn/)
 
