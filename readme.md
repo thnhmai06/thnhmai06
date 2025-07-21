@@ -41,7 +41,6 @@
 <p align="left">
 <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 <a href="https://httptoolkit.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/39777515?s=280&v=4" alt="HTTP Toolkit" width="40" height="40"/></a>
-<a href="https://en.wikipedia.org/wiki/Cmd.exe" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Windows_Terminal_logo.svg/640px-Windows_Terminal_logo.svg.png" alt="Command Prompt" width="42" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
 <a href="https://www.vmware.com/products/workstation-pro.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/1200px-Vmware_workstation_16_icon.svg.png" alt="VMWare Workstation" width="40" height="40"/></a>
 <a href="https://www.blackmagicdesign.com/products/davinciresolve/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/DaVinci_Resolve_Studio.png" alt="Davinci Resolve Studio" width="40" height="40"/></a>
