@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **Contact me via [Facebook](https://www.facebook.com/thnhmai06) or [Discord](https://discord.com/users/384282911479693313).**
 
-- ⚡ Fun fact **I actually made a game engine by accident while working on [The Floor is Rhythm](https://github.com/thnhmai06/the-floor-is-rhythm).**
+- ⚡ Fun fact **I actually made a game engine by accident while working on [The Floor is Rhythm](https://youtu.be/1eFJ12o5hNc).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
