@@ -21,8 +21,6 @@
 <a href="https://discord.com/users/384282911479693313" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Discord_Logo_sans_texte.svg/1818px-Discord_Logo_sans_texte.svg.png" alt="Discord" height="40" width="40" /></a>
 <a href="https://www.leetcode.com/thnhmai06" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" height="40" width="40" alt="LeetCode"/></a>
 <a href="https://oj.vnoi.info/user/MaiThanh1342" target="blank"><img align="center" src="bin/vnoi.png" alt="VNOI" height="40" width="40" /></a>
-<a href="https://steamcommunity.com/id/thnhmai06" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" alt="Steam" height="40" width="40" /></a>
-<a href="https://osu.ppy.sh/u/16020451" target="blank"><img align="center" src="bin/osu.png" alt="osu!" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages:</h3>
