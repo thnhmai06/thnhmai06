@@ -1,5 +1,7 @@
 <h1 align="left">Hi 👋, I'm Thành</h1>
+<img src="assets/common/side.png" width="280" align="right" />
 <h3 align="left">Computer Science student at VNU-UET</h3>
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=thnhmai06&label=Profile%20views&color=0e75b6&style=flat-square" alt="thnhmai06" />
@@ -7,7 +9,6 @@
   <a href="https://github.com/thnhmai06?tab=repositories"><img src="https://img.shields.io/github/stars/thnhmai06?label=Stars&style=flat-square" alt="stars" /></a>
 </p>
 
-<img src="assets/common/side.png" width="280" align="right" />
 <img src="assets/common/about-me.png" alt="About me" />
 
 - 🌱 I am currently learning <img src="https://cdn-icons-png.flaticon.com/512/11532/11532661.png" alt="Software Engineering" height="16" width="16" /> **Computer Science** at <img src="assets/common/uet.png" alt="UET" height="16" width="16" /> [**VNU-UET**](https://uet.vnu.edu.vn/).
