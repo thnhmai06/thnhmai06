@@ -9,7 +9,6 @@
 
 <img src="assets/common/side.png" width="280" align="right" />
 <img src="assets/common/about-me.png" alt="About me" />
-<br/> <br/>
 
 - 🌱 I am currently learning <img src="https://cdn-icons-png.flaticon.com/512/11532/11532661.png" alt="Software Engineering" height="16" width="16" /> **Computer Science** at <img src="assets/common/uet.png" alt="UET" height="16" width="16" /> [**VNU-UET**](https://uet.vnu.edu.vn/).
 - 📍 I am living and studying in <img src="assets/common/vietnam.png" alt="Vietnam" height="16" width="16" /> **Hanoi, Vietnam**.
@@ -66,6 +65,7 @@
     <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron" width="32" height="32"/></a>
     <a href="https://tauri.app/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tauri/tauri-original.svg" alt="Tauri" width="32" height="32"/></a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="Node.js" width="32" height="32"/></a>
+    <a href="https://discord.js.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/discorddotjs/5865F2" alt="Discord.js" width="32" height="32"/></a>
     <a href="https://www.dot.net/" target="_blank" rel="noreferrer"><img src="assets/framework/dotnet.png" alt=".NET" width="32" height="32"/></a>
     <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"><img src="assets/framework/asp-net.png" alt="ASP.NET" width="32" height="32"/></a>
     <a href="https://www.libsdl.org/" target="_blank" rel="noreferrer"><img src="assets/framework/sdl.png" alt="Simple DirectMedia Layer" width="32" height="32"/></a>
