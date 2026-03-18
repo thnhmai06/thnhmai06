@@ -63,6 +63,7 @@
     <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="32" height="32"/></a>
     <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron" width="32" height="32"/></a>
     <a href="https://tauri.app/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tauri/tauri-original.svg" alt="Tauri" width="32" height="32"/></a>
+    <a href="https://vite.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="Vite" width="32" height="32"/></a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="Node.js" width="32" height="32"/></a>
     <a href="https://discord.js.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/discorddotjs/5865F2" alt="Discord.js" width="32" height="32"/></a>
     <a href="https://www.dot.net/" target="_blank" rel="noreferrer"><img src="assets/framework/dotnet.png" alt=".NET" width="32" height="32"/></a>
