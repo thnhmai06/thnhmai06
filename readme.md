@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Thành</h1>
-<h3 align="left">Computer Science student at UET-VNU</h3>
+<h3 align="left">Computer Science student at VNU-UET</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=thnhmai06&label=Profile%20views&color=0e75b6&style=flat-square" alt="thnhmai06" />
