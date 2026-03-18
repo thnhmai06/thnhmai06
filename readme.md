@@ -1,35 +1,40 @@
-<h1 align="center">Hi 👋, I'm Thành</h1>
-<h3 align="center">Computer Science student at UET-VNU | Vietnam 🇻🇳</h3>
+<h1 align="left">Hi 👋, I'm Thành</h1>
+<h3 align="left">Computer Science student at UET-VNU</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=thnhmai06&label=Profile%20views&color=0e75b6&style=flat-square" alt="thnhmai06" />
   <a href="https://github.com/thnhmai06?tab=followers"><img src="https://img.shields.io/github/followers/thnhmai06?label=Followers&style=flat-square" alt="followers" /></a>
   <a href="https://github.com/thnhmai06?tab=repositories"><img src="https://img.shields.io/github/stars/thnhmai06?label=Stars&style=flat-square" alt="stars" /></a>
 </p>
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thnhmai06&theme=radical&row=1" alt="Github Trophy" /></a></p>
 
-## 👨‍💻 About Me
+<img src="assets/common/side.png" width="280" align="right" />
+<img src="assets/common/about-me.png" alt="About me" />
+<br/> <br/>
 
-- 🌱 I am currently learning <img src="https://cdn-icons-png.flaticon.com/512/11532/11532661.png" alt="Software Engineering" height="16" width="16" /> **Computer Science** at <img src="bin/common/uet.png" alt="UET" height="16" width="16" /> [**VNU-UET**](https://uet.vnu.edu.vn/).
-- 📍 I am living and studying in <img src="bin/common/vietnam.png" alt="Vietnam" height="16" width="16" /> **Hanoi, Vietnam**.
-- 🎯 My main interests are <img src="https://cdn-icons-png.flaticon.com/512/10382/10382399.png" alt="Software Engineering" height="16" width="16" /> **Software Engineering** and <img src="https://cdn-icons-png.flaticon.com/512/13442/13442172.png" alt="Research" height="16" width="16" />  **Research**.
+- 🌱 I am currently learning <img src="https://cdn-icons-png.flaticon.com/512/11532/11532661.png" alt="Software Engineering" height="16" width="16" /> **Computer Science** at <img src="assets/common/uet.png" alt="UET" height="16" width="16" /> [**VNU-UET**](https://uet.vnu.edu.vn/).
+- 📍 I am living and studying in <img src="assets/common/vietnam.png" alt="Vietnam" height="16" width="16" /> **Hanoi, Vietnam**.
+- 🎯 My main interests are <img src="https://cdn-icons-png.flaticon.com/512/10382/10382399.png" alt="Software Engineering" height="16" width="16" /> **Software Engineering** and <img src="https://cdn-icons-png.flaticon.com/512/13442/13442172.png" alt="Research" height="16" width="16" /> **Research**.
 - 👯 I am looking to collaborate on <img src="https://cdn-icons-png.flaticon.com/512/2111/2111503.png" alt="Open cource" height="16" width="16" /> **open-source projects**.
 - 💬 Ask me about <img src="https://cdn-icons-png.flaticon.com/512/8346/8346064.png" height="16" width="16" /> **everything (but not frontend)**.
 - ⚡ I accidentally built a <img src="https://cdn-icons-png.flaticon.com/512/6581/6581038.png" alt="Game engine" height="16" width="16" /> **game engine** while working on [**The Floor is Rhythm**](https://youtu.be/1eFJ12o5hNc).
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://fb.com/thnhmai06" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Facebook-thnhmai06-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://www.youtube.com/@thnhmai06" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/YouTube-@thnhmai06-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://discord.com/users/384282911479693313" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Discord-thnhmai06-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://www.linkedin.com/in/thnhmai06/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-thnhmai06-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
-
 ## 🏆 Competitive Programming Profiles
 
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg" alt="LeetCode" height="16" width="16" /> LeetCode: [thnhmai06](https://www.leetcode.com/thnhmai06)
-- <img src="bin/social/vnoi.png" alt="VNOI" height="16" width="16" /> VNOI: [MaiThanh1342](https://oj.vnoi.info/user/MaiThanh1342)
+- <img src="assets/social/vnoi.png" alt="VNOI" height="16" width="16" /> VNOI: [MaiThanh1342](https://oj.vnoi.info/user/MaiThanh1342)
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://fb.com/thnhmai06" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Facebook-thnhmai06-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" width=192 /></a>
+  <a href="https://www.youtube.com/@thnhmai06" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/YouTube-@thnhmai06-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" width=192 /></a>
+  <br/>
+  <a href="https://discord.com/users/384282911479693313" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Discord-thnhmai06-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" width=192 /></a>
+  <a href="https://www.linkedin.com/in/thnhmai06/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-thnhmai06-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width=192 /></a>
+</p>
+  
+## 📌 Discord Presence:
+[![Discord Presence](https://lanyard.cnrad.dev/api/384282911479693313?showDisplayName=true)](https://discord.com/users/384282911479693313)
 
 ## 🚀 Current Focus
 
@@ -43,14 +48,16 @@
 <div align="center">
   <h3><i>programming languages</i></h3>
   <p>
-    <a href="https://wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer"><img src="bin/language/asm.png" alt="Assembly" width="32" height="32"/></a>
-    <a href="https://www.freepascal.org/" target="_blank" rel="noreferrer"><img src="bin/language/pascal.png" alt="Pascal" width="32" height="32"/></a>
+    <a href="https://wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer"><img src="assets/language/asm.png" alt="Assembly" width="32" height="32"/></a>
+    <a href="https://www.freepascal.org/" target="_blank" rel="noreferrer"><img src="assets/language/pascal.png" alt="Pascal" width="32" height="32"/></a>
     <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="32" height="32"/></a>
     <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="32" height="32"/></a>
     <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="32" height="32"/></a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="32" height="32"/></a>
+    <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="32" height="32"/></a>
+    <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="32" height="32"/></a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="32" height="32"/></a>
-    <a href="https://wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"><img src="bin/language/sql.png" alt="SQL" width="32" height="32"/></a>
+    <a href="https://wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"><img src="assets/language/sql.png" alt="SQL" width="32" height="32"/></a>
   </p>
 
   <h3><i>frameworks & libraries</i></h3>
@@ -59,10 +66,10 @@
     <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron" width="32" height="32"/></a>
     <a href="https://tauri.app/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tauri/tauri-original.svg" alt="Tauri" width="32" height="32"/></a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="Node.js" width="32" height="32"/></a>
-    <a href="https://www.dot.net/" target="_blank" rel="noreferrer"><img src="bin/framework/dotnet.png" alt=".NET" width="32" height="32"/></a>
-    <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"><img src="bin/framework/asp-net.png" alt="ASP.NET" width="32" height="32"/></a>
-    <a href="https://www.libsdl.org/" target="_blank" rel="noreferrer"><img src="bin/framework/sdl.png" alt="Simple DirectMedia Layer" width="32" height="32"/></a>
-    <a href="https://elsaworkflows.io/" target="_blank" rel="noreferrer"><img src="bin/framework/elsa-workflows.png" alt="Elsa Workflow" width="32" height="32"/></a>
+    <a href="https://www.dot.net/" target="_blank" rel="noreferrer"><img src="assets/framework/dotnet.png" alt=".NET" width="32" height="32"/></a>
+    <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"><img src="assets/framework/asp-net.png" alt="ASP.NET" width="32" height="32"/></a>
+    <a href="https://www.libsdl.org/" target="_blank" rel="noreferrer"><img src="assets/framework/sdl.png" alt="Simple DirectMedia Layer" width="32" height="32"/></a>
+    <a href="https://elsaworkflows.io/" target="_blank" rel="noreferrer"><img src="assets/framework/elsa-workflows.png" alt="Elsa Workflow" width="32" height="32"/></a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="32" height="32"/></a>
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="32" height="32"/></a>
   </p>
@@ -98,14 +105,11 @@
   </p>
 </div>
 
-## 📊 GitHub Analytics
+## 📊 Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thnhmai06&show_icons=true&theme=dark&locale=en&layout=compact" alt="thnhmai06" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thnhmai06&show_icons=true&theme=dark&locale=en" alt="thnhmai06" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thnhmai06&theme=dark" alt="thnhmai06" />
+    <img src="https://trophy.ryglcloud.net/?username=thnhmai06&theme=radical&row=1" alt="Github Trophy" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thnhmai06&show_icons=true&theme=radical&locale=en&layout=compact" height=180 />
+    <img src="https://github-readme-stats.vercel.app/api?username=thnhmai06&show_icons=true&theme=radical&locale=en" height=180 />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thnhmai06&theme=radical" height=180 />
 </p>
