@@ -66,7 +66,7 @@
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="Node.js" width="32" height="32"/></a>
     <a href="https://discord.js.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/discorddotjs/5865F2" alt="Discord.js" width="32" height="32"/></a>
     <a href="https://www.dot.net/" target="_blank" rel="noreferrer"><img src="assets/framework/dotnet.png" alt=".NET" width="32" height="32"/></a>
-    <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"><img src="assets/framework/asp-net.png" alt="ASP.NET" width="32" height="32"/></a>
+    <a href="https://www.asp.net/" target="_blank" rel="noreferrer"><img src="assets/framework/asp-net.png" alt="ASP.NET" width="32" height="32"/></a>
     <a href="https://www.libsdl.org/" target="_blank" rel="noreferrer"><img src="assets/framework/sdl.png" alt="Simple DirectMedia Layer" width="32" height="32"/></a>
     <a href="https://elsaworkflows.io/" target="_blank" rel="noreferrer"><img src="assets/framework/elsa-workflows.png" alt="Elsa Workflow" width="32" height="32"/></a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="32" height="32"/></a>
