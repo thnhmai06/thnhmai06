@@ -1,68 +1,111 @@
 <h1 align="center">Hi 👋, I'm Thành</h1>
-<h3 align="center">I'm a student and living in Vietnam.</h3>
+<h3 align="center">Computer Science student at UET-VNU | Vietnam 🇻🇳</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=thnhmai06&label=Profile%20views&color=0e75b6&style=flat-square" alt="thnhmai06" /> </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thnhmai06&theme=radical&row=1" alt="thnhmai06" /></a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thnhmai06&label=Profile%20views&color=0e75b6&style=flat-square" alt="thnhmai06" />
+  <a href="https://github.com/thnhmai06?tab=followers"><img src="https://img.shields.io/github/followers/thnhmai06?label=Followers&style=flat-square" alt="followers" /></a>
+  <a href="https://github.com/thnhmai06?tab=repositories"><img src="https://img.shields.io/github/stars/thnhmai06?label=Stars&style=flat-square" alt="stars" /></a>
+</p>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thnhmai06&theme=radical&row=1" alt="Github Trophy" /></a></p>
 
-- 🌱 I’m currently learning **Computer Science** in [**UET-VNU**](https://uet.vnu.edu.vn/).
+## 👨‍💻 About Me
 
-- 👯 I’m looking to collaborate on **open & close source project.**
+- 🌱 I am currently learning <img src="https://cdn-icons-png.flaticon.com/512/11532/11532661.png" alt="Software Engineering" height="16" width="16" /> **Computer Science** at <img src="bin/common/uet.png" alt="UET" height="16" width="16" /> [**VNU-UET**](https://uet.vnu.edu.vn/).
+- 📍 I am living and studying in <img src="bin/common/vietnam.png" alt="Vietnam" height="16" width="16" /> **Hanoi, Vietnam**.
+- 🎯 My main interests are <img src="https://cdn-icons-png.flaticon.com/512/10382/10382399.png" alt="Software Engineering" height="16" width="16" /> **Software Engineering** and <img src="https://cdn-icons-png.flaticon.com/512/13442/13442172.png" alt="Research" height="16" width="16" />  **Research**.
+- 👯 I am looking to collaborate on <img src="https://cdn-icons-png.flaticon.com/512/2111/2111503.png" alt="Open cource" height="16" width="16" /> **open-source projects**.
+- 💬 Ask me about <img src="https://cdn-icons-png.flaticon.com/512/8346/8346064.png" height="16" width="16" /> **everything (but not frontend)**.
+- ⚡ I accidentally built a <img src="https://cdn-icons-png.flaticon.com/512/6581/6581038.png" alt="Game engine" height="16" width="16" /> **game engine** while working on [**The Floor is Rhythm**](https://youtu.be/1eFJ12o5hNc).
 
-- 💬 Ask me about **every problems except Frontend.**
+## 🌐 Connect With Me
 
-- 📫 How to reach me **Contact me via [Facebook](https://www.facebook.com/thnhmai06) or [Discord](https://discord.com/users/384282911479693313).**
-
-- ⚡ Fun fact **I actually made a game engine by accident while working on [The Floor is Rhythm](https://youtu.be/1eFJ12o5hNc).**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/thnhmai06" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/2023_Facebook_icon.svg/2048px-2023_Facebook_icon.svg.png" alt="Facebook" height="40" width="40" /></a>
-<a href="https://www.youtube.com/@thnhmai06" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png"  height="40" width="40" alt="YouTube" /></a>
-<a href="https://discord.com/users/384282911479693313" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" alt="Discord" height="40" width="40" /></a>
-<a href="https://www.leetcode.com/thnhmai06" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" height="40" width="40" alt="LeetCode"/></a>
-<a href="https://oj.vnoi.info/user/MaiThanh1342" target="blank"><img align="center" src="bin/web/vnoi.png" alt="VNOI" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/thnhmai06/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/500px-LinkedIn_logo_initials.png" alt="LinkedIn" height="40" width="40" /></a>
+<p align="center">
+  <a href="https://fb.com/thnhmai06" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Facebook-thnhmai06-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.youtube.com/@thnhmai06" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/YouTube-@thnhmai06-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://discord.com/users/384282911479693313" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Discord-thnhmai06-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://www.linkedin.com/in/thnhmai06/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-thnhmai06-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-<h3 align="left">Languages:</h3>
-<p align="left">
-<a href="https://www.freepascal.org/" target="_blank" rel="noreferrer"><img src="bin/language/pascal.png" alt="Pascal" width="40" height="40"/></a>
-<a href="https://cplusplus.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-<a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
-<a href="https://wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer"><img src="bin/language/asm.png" alt="Assembly" width="40" height="40"/></a>
-</p>
+## 🏆 Competitive Programming Profiles
 
-<h3 align="left">Tools:</h3>
-<p align="left">
-<a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
-<a href="https://httptoolkit.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/39777515?s=280&v=4" alt="HTTP Toolkit" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a> 
-<a href="https://www.vmware.com/products/workstation-pro.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/1200px-Vmware_workstation_16_icon.svg.png" alt="VMWare Workstation" width="40" height="40"/></a>
-<a href="https://www.blackmagicdesign.com/products/davinciresolve/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/DaVinci_Resolve_Studio.png" alt="DaVinci Resolve Studio" width="40" height="40"/></a>
-</p>
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg" alt="LeetCode" height="16" width="16" /> LeetCode: [thnhmai06](https://www.leetcode.com/thnhmai06)
+- <img src="bin/social/vnoi.png" alt="VNOI" height="16" width="16" /> VNOI: [MaiThanh1342](https://oj.vnoi.info/user/MaiThanh1342)
 
-<h3 align="left">Frameworks:</h3>
-<p align="left">
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a> 
-<a href="https://www.libsdl.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Simple_DirectMedia_Layer%2C_Logo.svg" alt="SDL" width="60" height="40"/></a>
-</p>
+## 🚀 Current Focus
 
-<h3 align="left">IDEs:</h3>
-<p align="left">
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/></a>
-<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio" width="40" height="40"/></a>
-<a href="https://www.jetbrains.com/clion/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clion/clion-original.svg" alt="CLion" width="40" height="40"/></a>
-<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/></a>
-<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/></a>
-<a href="https://www.jetbrains.com/datagrip/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datagrip/datagrip-original.svg" alt="DataGrip" width="40" height="40"/></a>
-<a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg" alt="WebStorm" width="40" height="40"/></a>
-</p>
+- Strengthening core CS fundamentals and algorithmic thinking.
+- Building practical projects with clean architecture.
+- Improving code quality, maintainability, and performance.
+- Learning to use AI tools effectively for development and problem-solving.
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thnhmai06&show_icons=true&theme=dark&locale=en&layout=compact" alt="thnhmai06" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thnhmai06&show_icons=true&theme=dark&locale=en" alt="thnhmai06" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thnhmai06&theme=dark" alt="thnhmai06" />
+## 🧰 Tech Stack
+
+<div align="center">
+  <h3><i>programming languages</i></h3>
+  <p>
+    <a href="https://wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer"><img src="bin/language/asm.png" alt="Assembly" width="32" height="32"/></a>
+    <a href="https://www.freepascal.org/" target="_blank" rel="noreferrer"><img src="bin/language/pascal.png" alt="Pascal" width="32" height="32"/></a>
+    <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="32" height="32"/></a>
+    <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="32" height="32"/></a>
+    <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="32" height="32"/></a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="32" height="32"/></a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="32" height="32"/></a>
+    <a href="https://wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"><img src="bin/language/sql.png" alt="SQL" width="32" height="32"/></a>
+  </p>
+
+  <h3><i>frameworks & libraries</i></h3>
+  <p>
+    <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="32" height="32"/></a>
+    <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron" width="32" height="32"/></a>
+    <a href="https://tauri.app/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tauri/tauri-original.svg" alt="Tauri" width="32" height="32"/></a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="Node.js" width="32" height="32"/></a>
+    <a href="https://www.dot.net/" target="_blank" rel="noreferrer"><img src="bin/framework/dotnet.png" alt=".NET" width="32" height="32"/></a>
+    <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"><img src="bin/framework/asp-net.png" alt="ASP.NET" width="32" height="32"/></a>
+    <a href="https://www.libsdl.org/" target="_blank" rel="noreferrer"><img src="bin/framework/sdl.png" alt="Simple DirectMedia Layer" width="32" height="32"/></a>
+    <a href="https://elsaworkflows.io/" target="_blank" rel="noreferrer"><img src="bin/framework/elsa-workflows.png" alt="Elsa Workflow" width="32" height="32"/></a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="32" height="32"/></a>
+    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="32" height="32"/></a>
+  </p>
+
+  <h3><i>tools</i></h3>
+  <p>
+    <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="32" height="32"/></a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="32" height="32"/></a>
+    <a href="https://httptoolkit.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/39777515?s=280&v=4" alt="HTTP Toolkit" width="32" height="32"/></a>
+    <a href="https://www.vmware.com/products/workstation-pro.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/1200px-Vmware_workstation_16_icon.svg.png" alt="VMWare Workstation" width="32" height="32"/></a>
+  </p>
+
+  <h3><i>ides</i></h3>
+  <p>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" alt="Visual Studio Code" width="32" height="32"/></a>
+    <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Visual_Studio_Icon_2026.svg/1280px-Visual_Studio_Icon_2026.svg.png" alt="Visual Studio" width="32" height="32"/></a>
+    <a href="https://www.jetbrains.com/clion/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clion/clion-original.svg" alt="CLion" width="32" height="32"/></a>
+    <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="32" height="32"/></a>
+    <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="32" height="32"/></a>
+    <a href="https://www.jetbrains.com/datagrip/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datagrip/datagrip-original.svg" alt="DataGrip" width="32" height="32"/></a>
+    <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg" alt="WebStorm" width="32" height="32"/></a>
+    <a href="https://www.jetbrains.com/rider/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rider/rider-original.svg" alt="Rider" width="32" height="32"/></a>
+  </p>
+
+  <h3><i>others</i></h3>
+  <p>
+    <a href="https://krita.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Calligrakrita-base.svg" alt="Krita" width="32" height="32"/></a>
+    <a href="https://obsproject.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/13/OBS_Studio_logo.png" alt="OBS Studio" width="32" height="32"/></a>
+    <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/DaVinci_Resolve_Studio.png" alt="DaVinci Resolve" width="32" height="32"/></a>
+    <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/500px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="Adobe Premiere Pro" width="32" height="32"/></a>
+    <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" alt="Adobe After Effects" width="32" height="32"/></a>
+    <a href="https://www.adobe.com/products/audition.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Adobe_Audition_CC_icon_%282020%29.svg/960px-Adobe_Audition_CC_icon_%282020%29.svg.png" alt="Adobe Audition" width="32" height="32"/></a>
+  </p>
+</div>
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thnhmai06&show_icons=true&theme=dark&locale=en&layout=compact" alt="thnhmai06" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thnhmai06&show_icons=true&theme=dark&locale=en" alt="thnhmai06" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thnhmai06&theme=dark" alt="thnhmai06" />
 </p>
