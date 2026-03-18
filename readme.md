@@ -27,7 +27,6 @@
 <p align="left">
   <a href="https://fb.com/thnhmai06" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Facebook-thnhmai06-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" width=192 /></a>
   <a href="https://www.youtube.com/@thnhmai06" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/YouTube-@thnhmai06-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" width=192 /></a>
-  <br/>
   <a href="https://discord.com/users/384282911479693313" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Discord-thnhmai06-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" width=192 /></a>
   <a href="https://www.linkedin.com/in/thnhmai06/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-thnhmai06-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width=192 /></a>
 </p>
