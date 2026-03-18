@@ -73,8 +73,10 @@
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="32" height="32"/></a>
   </p>
 
-  <h3><i>tools</i></h3>
+  <h3><i>os & tools</i></h3>
   <p>
+    <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer"><img src="https://images.seeklogo.com/logo-png/40/2/windows-11-icon-logo-png_seeklogo-406208.png" alt="Windows" width="32" height="32"/></a>
+    <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/888/888879.png" alt="Ubuntu" width="32" height="32"/></a>
     <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="32" height="32"/></a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="32" height="32"/></a>
     <a href="https://httptoolkit.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/39777515?s=280&v=4" alt="HTTP Toolkit" width="32" height="32"/></a>
