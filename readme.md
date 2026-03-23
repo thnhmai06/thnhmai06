@@ -73,6 +73,7 @@
     <a href="https://elsaworkflows.io/" target="_blank" rel="noreferrer"><img src="assets/framework/elsa-workflows.png" alt="Elsa Workflow" width="32" height="32"/></a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="32" height="32"/></a>
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="32" height="32"/></a>
+    <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="32" height="32"/></a>
   </p>
 
   <h3><i>os & tools</i></h3>
