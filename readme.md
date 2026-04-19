@@ -87,7 +87,7 @@
     <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="assets/tools/postman.svg" alt="Postman" width="32" height="32"/></a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="assets/tools/git.svg" alt="Git" width="32" height="32"/></a>
     <a href="https://httptoolkit.com/" target="_blank" rel="noreferrer"><img src="assets/tools/http-toolkit.png" alt="HTTP Toolkit" width="32" height="32"/></a>
-    <a href="https://www.vmware.com/products/workstation-pro.html" target="_blank" rel="noreferrer"><img src="assets/tools/vmware.svg" alt="VMWare Workstation" width="32" height="32"/></a>
+    <a href="https://www.vmware.com/products/workstation-pro.html" target="_blank" rel="noreferrer"><img src="assets/tools/vmware.png" alt="VMWare Workstation" width="32" height="32"/></a>
   </p>
 
   <h3><i>ides</i></h3>
