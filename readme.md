@@ -42,7 +42,7 @@
 - Improving code quality, maintainability, and performance.
 - Learning to use AI tools effectively for development and problem-solving.
 
-## 🧰 Tech Stack
+## 🧰 What I used
 
 <div align="center">
   <h3><i>programming languages</i></h3>
