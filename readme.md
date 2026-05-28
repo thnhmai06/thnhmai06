@@ -35,13 +35,6 @@
 ## 📌 Discord Presence:
 [![Discord Presence](https://lanyard.cnrad.dev/api/384282911479693313?showDisplayName=true)](https://discord.com/users/384282911479693313)
 
-## 🚀 Current Focus
-
-- Strengthening core CS fundamentals and algorithmic thinking.
-- Building practical projects with clean architecture.
-- Improving code quality, maintainability, and performance.
-- Learning to use AI tools effectively for development and problem-solving.
-
 ## 🧰 What I used
 
 <div align="center">
