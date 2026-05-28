@@ -15,7 +15,7 @@
 - 📍 I am living and studying in <img src="assets/about/vietnam.png" alt="Vietnam" height="16" width="16" /> **Hanoi, Vietnam**.
 - 🎯 My main interests are <img src="assets/about/software-engineering.png" alt="Software Engineering" height="16" width="16" /> **Software Engineering** and <img src="assets/about/research.png" alt="Research" height="16" width="16" /> **Research**.
 - 👯 I am looking to collaborate on <img src="assets/about/open-source.png" alt="Open cource" height="16" width="16" /> **open-source projects**.
-- 💬 Ask me about <img src="assets/about/ask-me.png" height="16" width="16" /> **everything (but not frontend)**.
+- 💬 Ask me about <img src="assets/about/ask-me.png" height="16" width="16" /> **everything** *(but not frontend & design)*.
 - ⚡ I accidentally built a <img src="assets/about/game-engine.png" alt="Game engine" height="16" width="16" /> **game engine** while working on [**The Floor is Rhythm**](https://youtu.be/1eFJ12o5hNc).
 
 ## 🏆 Competitive Programming Profiles
@@ -45,7 +45,7 @@
 ## 🧰 What I used
 
 <div align="center">
-  <h3><i>programming languages</i></h3>
+  <h3><i>languages</i></h3>
   <p>
     <a href="https://wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer"><img src="assets/language/asm.png" alt="Assembly" width="32" height="32"/></a>
     <a href="https://www.freepascal.org/" target="_blank" rel="noreferrer"><img src="assets/language/pascal.png" alt="Pascal" width="32" height="32"/></a>
@@ -59,25 +59,27 @@
     <a href="https://wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"><img src="assets/language/sql.png" alt="SQL" width="32" height="32"/></a>
   </p>
 
-  <h3><i>frameworks & libraries</i></h3>
+  <h3><i>software engineering</i></h3>
   <p>
     <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="assets/framework/react.svg" alt="React" width="32" height="32"/></a>
-    <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer"><img src="assets/framework/electron.svg" alt="Electron" width="32" height="32"/></a>
+    <a href="https://electronjs.org/" target="_blank" rel="noreferrer"><img src="assets/framework/electron.svg" alt="Electron" width="32" height="32"/></a>
     <a href="https://tauri.app/" target="_blank" rel="noreferrer"><img src="assets/framework/tauri.svg" alt="Tauri" width="32" height="32"/></a>
     <a href="https://vite.dev/" target="_blank" rel="noreferrer"><img src="assets/framework/vite.svg" alt="Vite" width="32" height="32"/></a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="assets/framework/nodejs.png" alt="Node.js" width="32" height="32"/></a>
     <a href="https://discord.js.org/" target="_blank" rel="noreferrer"><img src="assets/framework/discordjs.svg" alt="Discord.js" width="32" height="32"/></a>
     <a href="https://www.dot.net/" target="_blank" rel="noreferrer"><img src="assets/framework/dotnet.png" alt=".NET" width="32" height="32"/></a>
     <a href="https://www.asp.net/" target="_blank" rel="noreferrer"><img src="assets/framework/asp-net.png" alt="ASP.NET" width="32" height="32"/></a>
-    <a href="https://www.libsdl.org/" target="_blank" rel="noreferrer"><img src="assets/framework/sdl.png" alt="Simple DirectMedia Layer" width="32" height="32"/></a>
-    <a href="https://elsaworkflows.io/" target="_blank" rel="noreferrer"><img src="assets/framework/elsa-workflows.png" alt="Elsa Workflow" width="32" height="32"/></a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="assets/framework/mysql.svg" alt="MySQL" width="32" height="32"/></a>
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="assets/framework/sqlite.svg" alt="SQLite" width="32" height="32"/></a>
+  </p>
+  
+  <h3><i>AI enginnering & data science</i></h3>
+  <p>
     <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="assets/framework/tensorflow.svg" alt="TensorFlow" width="32" height="32"/></a>
     <a href="https://www.pytorch.org/" target="_blank" rel="noreferrer"><img src="assets/framework/pytorch.svg" alt="PyTorch" width="32" height="32"/></a>
-     <a href="https://www.numpy.org/" target="_blank" rel="noreferrer"><img src="assets/framework/numpy.svg" alt="NumPy" width="32" height="32"/></a>
-     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="assets/framework/pandas.svg" alt="Pandas" width="32" height="32"/></a>
-     <a href="https://pola.rs/" target="_blank" rel="noreferrer"><img src="assets/framework/polars.png" alt="Polars" width="32" height="32"/></a>
+    <a href="https://www.numpy.org/" target="_blank" rel="noreferrer"><img src="assets/framework/numpy.svg" alt="NumPy" width="32" height="32"/></a>
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="assets/framework/pandas.svg" alt="Pandas" width="32" height="32"/></a>
+    <a href="https://pola.rs/" target="_blank" rel="noreferrer"><img src="assets/framework/polars.png" alt="Polars" width="32" height="32"/></a>
   </p>
 
   <h3><i>os & tools</i></h3>
